@@ -129,7 +129,6 @@ dependencies {
     modImplementation ("maven.modrinth:animatica:${project.animatica_version}")
     modCompileOnlyApi ("maven.modrinth:colormatic:${project.colormatic_version}")
     modImplementation ("maven.modrinth:borderless-mining:${project.borderless_mining_version}")
-    modImplementation ("maven.modrinth:dynamic-fps:${project.dynamic_fps_version}")
     modImplementation("com.moandjiezana.toml:toml4j:${project.toml4j_version}")
     modImplementation ("maven.modrinth:entitytexturefeatures:${project.etf_version}")
     modImplementation ("maven.modrinth:entity-model-features:${project.emf_version}")
